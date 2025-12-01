@@ -34,7 +34,7 @@ Aplicativo mobile desenvolvido em React Native utilizando Expo, com foco na list
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/catalogo-produtos.git
+git clone https://github.com/HianLinhares/ProgramacaoMobile-UniFECAF.git
 
 # Acesse a pasta do projeto
 cd catalogo-produtos
