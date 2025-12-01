@@ -54,3 +54,7 @@ Este projeto foi desenvolvido para consolidar conhecimentos em:
 4)Gestão de estado local e global<br>
 5)Componentização e reutilização de código<br>
 6)boas práticas de estruturação de projetos React Native<br>
+
+### Vídeo Pitch de Apresentação: https://youtube.com/shorts/unXixkDyJSY?si=LjRbVcd8pETsIbva
+### Parte Teórica – Reflexão ContextuaL: https://docs.google.com/document/d/1YilnYDK44CDLcAg45HTEPk--rI-d9tCBInaqKI4pncE/edit?usp=sharing
+
