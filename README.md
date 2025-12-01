@@ -1,50 +1,56 @@
-# Welcome to your Expo app 👋
+# 📱 Catálogo de Produtos - Loja Online Mobile
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> Aplicativo React Native com Expo para gerenciamento de produtos com consumo de API REST
 
-## Get started
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-1. Install dependencies
+## 📋 Sobre o Projeto
 
-   ```bash
-   npm install
-   ```
+Aplicativo mobile desenvolvido em React Native utilizando Expo, com foco na listagem de produtos por categoria, navegação entre telas e consumo de uma API REST real via Axios. O projeto implementa uma interface funcional para exibição de produtos divididos por categorias masculina e feminina.
 
-2. Start the app
+### 🔧Funcionalidades
 
-   ```bash
-   npx expo start
-   ```
+-  **Tela de Login** com validação de campos
+-  **Listagem de produtos** organizada por categorias (Masculino/Feminino)
+-  **Navegação por abas** entre categorias
+-  **Tela de detalhes** com informações completas do produto
+-  **Consumo de API REST** real (DummyJSON)
+-  **Tratamento de estados** (loading, error, success)
+-  **Sistema de logout** com confirmação
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🚀 Como Executar
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Pré-requisitos
 
-## Get a fresh project
+- Node.js 16+
+- npm ou yarn
+- Expo Go (app no celular) ou emulador
 
-When you're ready, run:
+### Instalação
 
 ```bash
-npm run reset-project
+# Clone o repositório
+git clone https://github.com/seuusuario/catalogo-produtos.git
+
+# Acesse a pasta do projeto
+cd catalogo-produtos
+
+# Instale as dependências
+npm install
+
+# Inicie o projeto
+npx expo start
 ```
+### Objetivos de Aprendizado
+Este projeto foi desenvolvido para consolidar conhecimentos em:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1)Desenvolvimento Mobile com React Native e Expo <br>
+2)Consumo de APIs REST com tratamento de erros<br>
+3)Navegação entre telas em aplicativos mobile<br>
+4)Gestão de estado local e global<br>
+5)Componentização e reutilização de código<br>
+6)boas práticas de estruturação de projetos React Native<br>
